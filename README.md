@@ -1,4 +1,4 @@
-# MNIST Example App
+# MNIST Simple App
 
 #Overview
 
